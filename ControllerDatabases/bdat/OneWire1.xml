@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OneWireConfig>
+<Version>1</Version>
+<NumberOfArduinos>1</NumberOfArduinos>
+<Port>65000</Port>
+<Arduino_0>
+<IP_Address>10.0.0.101</IP_Address>
+<Address>0A01</Address>
+<IsActive>true</IsActive>
+<PauseForRetry>2</PauseForRetry>
+<SamplePeriod>2</SamplePeriod>
+<NumberOfPins>1</NumberOfPins>
+<Pin_0>2</Pin_0>
+</Arduino_0>
+<NumberOfDevices>1</NumberOfDevices>
+<Device_0>
+<Type>3</Type>
+<IsActive>true</IsActive>
+<Address>28A723DA040000F5</Address>
+<Index>0</Index>
+</Device_0>
+</OneWireConfig>
